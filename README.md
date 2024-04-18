@@ -100,8 +100,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/depainsds12/depainsds12/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="left">

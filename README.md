@@ -1,4 +1,4 @@
-<h3 align="center">𝙃𝙚𝙡𝙡𝙤 𝙖𝙣𝙙 𝙬𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙎𝘿𝙎𝙨𝙤𝙛𝙩𝙬𝙖𝙧𝙚𝙨 🚀 𝙒𝙚 𝙠𝙣𝙤𝙬 𝙝𝙤𝙬 𝙞𝙢𝙥𝙤𝙧𝙩𝙖𝙣𝙩 𝙞𝙩 𝙞𝙨 𝙛𝙤𝙧 𝙮𝙤𝙪 𝙩𝙤 𝙝𝙖𝙫𝙚 𝙖𝙣 𝙤𝙪𝙩𝙨𝙩𝙖𝙣𝙙𝙞𝙣𝙜 𝙙𝙞𝙜𝙞𝙩𝙖𝙡 𝙥𝙧𝙚𝙨𝙚𝙣𝙘𝙚, 𝙩𝙝𝙖𝙩'𝙨 𝙬𝙝𝙮 𝙤𝙪𝙧 𝙩𝙚𝙖𝙢 𝙤𝙛 𝙚𝙭𝙥𝙚𝙧𝙩𝙨 𝙩𝙖𝙠𝙚𝙨 𝙥𝙧𝙞𝙙𝙚 𝙞𝙣 𝙤𝙛𝙛𝙚𝙧𝙞𝙣𝙜 𝙪𝙣𝙥𝙖𝙧𝙖𝙡𝙡𝙚𝙡𝙚𝙙 𝙙𝙞𝙜𝙞𝙩𝙖𝙡 𝙨𝙤𝙡𝙪𝙩𝙞𝙤𝙣𝙨 𝙩𝙖𝙞𝙡𝙤𝙧𝙚𝙙 𝙩𝙤 𝙮𝙤𝙪𝙧 𝙪𝙣𝙞𝙦𝙪𝙚 𝙣𝙚𝙚𝙙𝙨.</h3>
+<h2 align="center">𝙃𝙚𝙡𝙡𝙤 𝙖𝙣𝙙 𝙬𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙎𝘿𝙎𝙨𝙤𝙛𝙩𝙬𝙖𝙧𝙚𝙨 🚀 𝙒𝙚 𝙠𝙣𝙤𝙬 𝙝𝙤𝙬 𝙞𝙢𝙥𝙤𝙧𝙩𝙖𝙣𝙩 𝙞𝙩 𝙞𝙨 𝙛𝙤𝙧 𝙮𝙤𝙪 𝙩𝙤 𝙝𝙖𝙫𝙚 𝙖𝙣 𝙤𝙪𝙩𝙨𝙩𝙖𝙣𝙙𝙞𝙣𝙜 𝙙𝙞𝙜𝙞𝙩𝙖𝙡 𝙥𝙧𝙚𝙨𝙚𝙣𝙘𝙚, 𝙩𝙝𝙖𝙩'𝙨 𝙬𝙝𝙮 𝙤𝙪𝙧 𝙩𝙚𝙖𝙢 𝙤𝙛 𝙚𝙭𝙥𝙚𝙧𝙩𝙨 𝙩𝙖𝙠𝙚𝙨 𝙥𝙧𝙞𝙙𝙚 𝙞𝙣 𝙤𝙛𝙛𝙚𝙧𝙞𝙣𝙜 𝙪𝙣𝙥𝙖𝙧𝙖𝙡𝙡𝙚𝙡𝙚𝙙 𝙙𝙞𝙜𝙞𝙩𝙖𝙡 𝙨𝙤𝙡𝙪𝙩𝙞𝙤𝙣𝙨 𝙩𝙖𝙞𝙡𝙤𝙧𝙚𝙙 𝙩𝙤 𝙮𝙤𝙪𝙧 𝙪𝙣𝙞𝙦𝙪𝙚 𝙣𝙚𝙚𝙙𝙨.</h2>
 
 ###
 
@@ -96,7 +96,28 @@
 
 ###
 
-<h4 align="left">🌐 We’re currently working on: Phones Marketplace, E-Learning, AI-based platforms, and more 🚀<br><br>👯 We are looking to collaborate on: Open-source projects related to web development, AI development, mobile app development, data analytics, and machine learning where we can contribute our expertise and learn from the community.<br><br>💬 Ask Us About: Our experience in building scalable and secure web apps, AI platforms, mobile app development, e-commerce platforms, integrating payment gateways, and optimizing user experience for higher conversion rates.<br><br>📫 </h4>
+<h4 align="left">
+🌐 Who We Are:  
+We’re a team of <strong>top-notch freelancers</strong>—experienced developers, designers, and problem-solvers—passionate about building <strong>scalable, high-performance applications</strong> across web, mobile, and AI-driven platforms. 🚀  
+
+<br><br>👯 How We Work:  
+We thrive on <strong>collaboration, innovation, and efficiency</strong>. Whether it’s building from the ground up or optimizing existing systems, we focus on <strong>clean code, seamless user experiences, and scalable architecture</strong>. We follow <strong>agile methodologies</strong>, prioritize transparent communication, and deliver impactful results.  
+
+<br><br>💡 We’re Looking to Collaborate On:  
+Open-source projects in:  
+- <strong>Web & Mobile Development</strong> (React, Next.js, Node.js, React Native, Flutter)  
+- <strong>AI & Machine Learning</strong> (LLMs, automation, data analytics)  
+- <strong>E-commerce & Payment Integrations</strong>  
+
+If you're working on something exciting, let's build together!  
+
+<br><br>💬 Ask Us About:  
+Need advice on <strong>scalability, security, AI integration, or UX optimization</strong>? We’ve tackled it all and would love to share insights.  
+
+<br><br>📫 Get in Touch:  
+Got a project in mind? Want to brainstorm ideas? Let’s connect!  
+</h4>
+
 
 ###
 

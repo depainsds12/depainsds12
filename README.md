@@ -96,31 +96,10 @@
 
 ###
 
-<h4 align="left">🌐 We’re currently working on: Phones Marketplace, E-Learning, AI-based platforms, and more 🚀<br><br>👯 We are looking to collaborate on: Open-source projects related to web development, AI development, mobile app development, data analytics, and machine learning where we can contribute our expertise and learn from the community.<br><br>💬 Ask Us About: Our experience in building scalable and secure web apps, AI platforms, mobile app development, e-commerce platforms, integrating payment gateways, and optimizing user experience for higher conversion rates.<br><br>📫 How to reach Us: Feel free to reach out to us via email at mailto:info@sdssoftwares.com or mailto:depain@sdssoftwares.co.uk, or through our website contact form for any inquiries or collaboration opportunities.<br><br>👨‍💻 All of our projects are available at: https://sdssoftwares.co.uk/portfolio<br><br>📝 We regularly write articles on: Our blog, where we share insights on the latest trends in technology, best practices in software development, and case studies of our successful projects. Check it out here https://sdssoftwares.co.uk/blog<br><br>📄 Know about our experiences: Read our case studies to learn how we’ve helped businesses like yours overcome challenges and achieve their goals through our customized software solutions. Visit here: https://sdssoftwares.co.uk/about-us for more details.<br><br>⚡ Fun fact: Our team includes talented musicians, artists, and athletes, bringing diverse skills and creativity to our work culture!</h4>
+<h4 align="left">🌐 We’re currently working on: Phones Marketplace, E-Learning, AI-based platforms, and more 🚀<br><br>👯 We are looking to collaborate on: Open-source projects related to web development, AI development, mobile app development, data analytics, and machine learning where we can contribute our expertise and learn from the community.<br><br>💬 Ask Us About: Our experience in building scalable and secure web apps, AI platforms, mobile app development, e-commerce platforms, integrating payment gateways, and optimizing user experience for higher conversion rates.<br><br>📫 </h4>
 
 ###
 
 ###
-
-<div align="left">
-  <a href="https://www.linkedin.com/company/sds-softwares/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/SDSSoftwares" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UC7mEA99lllmfETK1JSsXGbw" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://www.facebook.com/sdssoftwares/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-  <a href="https://linktr.ee/sds.softwares" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
-  </a>
-  <a href="https://www.instagram.com/sds.softwares/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
 
 ###
